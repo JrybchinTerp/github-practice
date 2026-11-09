@@ -1,0 +1,3 @@
+Tell the team before making major changes to shared files.
+Review each other's code before combining changes.
+Let teammates know when you finish your assigned work.
